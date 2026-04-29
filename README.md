@@ -1,24 +1,38 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:b7ab98&height=230&section=header&text=Vishwas%20Kothari&fontSize=54&fontColor=e0ddd6&animation=fadeIn&fontAlignY=38&desc=AI%20Research%20%7C%20Explainable%20Systems%20%7C%20Data%20Engineering&descAlignY=58&descSize=16" width="100%" alt="Vishwas Kothari header" /> </p> <p align="center"> <a href="https://linkedin.com/in/vishwas-kothari"> <img src="https://img.shields.io/badge/LinkedIn-Vishwas%20Kothari-b7ab98?style=for-the-badge&logo=linkedin&logoColor=0d0d0d" alt="LinkedIn" /> </a> <a href="mailto:vishwasvkothari@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-b7ab98?style=for-the-badge&logo=gmail&logoColor=0d0d0d" alt="Email" /> </a> <a href="https://github.com/vishwas182002"> <img src="https://img.shields.io/badge/GitHub-vishwas182002-b7ab98?style=for-the-badge&logo=github&logoColor=0d0d0d" alt="GitHub" /> </a> </p>
-About Me
-I am a CS graduate student and AI researcher building machine learning systems that are accurate, explainable, and reliable under real-world pressure. My work spans explainable AI, data engineering, vision-language models, optimizer behavior, and robustness, with research experience at ISRO's Space Applications Centre and graduate study at the University of Colorado Boulder.
-
-I like projects where the model is not a black box at the end of the pipeline. I care about systems people can inspect, question, audit, and trust.
-
-Featured Work
-Project	What It Shows	Stack
-XAI Credit Lens	Explainable credit risk system with 0.782 AUC, SHAP/LIME/DiCE explanations, fairness auditing, and regulatory mapping.	Python, XGBoost, SHAP, LIME, DiCE, Optuna, Streamlit
-Financial Document VQA	Benchmarked vision-language models on SEC 10-K filings; domain-specific LoRA improved ANLS by 22%.	PyTorch, LayoutLMv3, Donut, Pix2Struct, LoRA, Gradio
-Implicit Bias of Adam vs. SGD	Verified optimizer geometry across 5 seeds with >0.98 cosine similarity to exact max-margin solutions; showed SGD had 30% OOD drop vs Adam's 13%.	PyTorch, CVXPY, NumPy, Matplotlib
-XAI-Driven Collision Avoidance	Interpretable V2V/V2I collision detection with 99.9% AUC and SHAP/LIME feature attribution for safety-critical decisions.	Python, Random Forest, SHAP, LIME
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,55:171717,100:b7ab98&height=240&section=header&text=Vishwas%20Kothari&fontSize=56&fontColor=e0ddd6&animation=fadeIn&fontAlignY=38&desc=AI%20Research%20%7C%20Explainable%20Systems%20%7C%20Data%20Engineering&descAlignY=59&descSize=16" width="100%" alt="Vishwas Kothari" /> </p> <p align="center"> <a href="https://linkedin.com/in/vishwas-kothari"> <img src="https://img.shields.io/badge/LinkedIn-Vishwas%20Kothari-b7ab98?style=for-the-badge&logo=linkedin&logoColor=0d0d0d" alt="LinkedIn" /> </a> <a href="mailto:vishwasvkothari@gmail.com"> <img src="https://img.shields.io/badge/Email-vishwasvkothari%40gmail.com-b7ab98?style=for-the-badge&logo=gmail&logoColor=0d0d0d" alt="Email" /> </a> <a href="https://vishwas182002.github.io"> <img src="https://img.shields.io/badge/Portfolio-Visit-b7ab98?style=for-the-badge&logo=vercel&logoColor=0d0d0d" alt="Portfolio" /> </a> </p> <p align="center"> <b>CS graduate student and AI researcher building machine learning systems that are accurate, explainable, and reliable under real-world pressure.</b> </p> <p align="center"> My work spans explainable AI, data engineering, vision-language models, optimizer behavior, and robustness, with research experience at ISRO's Space Applications Centre and graduate study at the University of Colorado Boulder. </p>
+What I Work On
+Area	Focus
+Explainable AI	SHAP, LIME, DiCE, fairness auditing, model transparency, decision support
+Document Intelligence	Vision-language models, SEC filings, domain adaptation, LoRA fine-tuning
+ML Research	Optimizer implicit bias, margin theory, spurious correlations, robustness
+Data Engineering	Satellite data pipelines, NetCDF/xarray workflows, validation and reporting
+Research Engineering	Reproducible experiments, clear reports, usable demos, deployment-ready tooling
+Featured Projects
+Project	Why It Matters	Stack
+XAI Credit Lens	Built an explainable credit risk framework with 0.782 AUC, SHAP/LIME/DiCE explanations, automated fairness auditing, and compliance mapping for ECOA, EU AI Act, and Fed SR 11-7.	Python, XGBoost, SHAP, LIME, DiCE, Optuna, Streamlit
+Financial Document VQA	Benchmarked 4 vision-language models on SEC 10-K filings and showed a 63-83% drop versus generic DocVQA; domain-specific LoRA improved ANLS by 22%.	PyTorch, LayoutLMv3, Donut, Pix2Struct, LoRA, Gradio
+Implicit Bias of Adam vs. SGD	Connected optimizer theory to empirical robustness: verified >0.98 cosine similarity to exact max-margin solutions across 5 seeds, then showed SGD had 30% OOD drop while Adam reduced it to 13%.	PyTorch, CVXPY, NumPy, Matplotlib
+XAI-Driven Collision Avoidance	Developed interpretable V2V/V2I collision detection with 99.9% AUC and transparent SHAP/LIME feature attribution for safety-critical decision-making.	Python, Random Forest, SHAP, LIME
+Selected Signals
+Signal	Detail
+ISRO Research Internship	Built satellite data processing and bio-optical retrieval pipelines; achieved R2 = 0.987 in optimization experiments.
+AWS Certification	AWS Certified Cloud Practitioner with 970/1000.
+Publication	Springer chapter: Empowering Survivors: Ethical AI for Countering Violence Against Women.
+Peer Review	Reviewer for Elsevier journals in public health and social sciences.
 3D Contribution Graph
-<!-- This image is generated by .github/workflows/profile-3d.yml. After pushing this README and workflow to your GitHub profile repository, run the workflow once from the Actions tab. --> <p align="center"> <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution graph" /> </p>
-Research + Engineering Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,aws,docker,git,linux,mysql,mongodb,js&theme=dark" alt="Tech stack icons" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Explainable%20AI-SHAP%20%7C%20LIME%20%7C%20DiCE-b7ab98?style=flat-square" alt="Explainable AI" /> <img src="https://img.shields.io/badge/Data-NumPy%20%7C%20Pandas%20%7C%20SciPy%20%7C%20xarray-b7ab98?style=flat-square" alt="Data stack" /> <img src="https://img.shields.io/badge/ML-XGBoost%20%7C%20LightGBM%20%7C%20PyTorch-b7ab98?style=flat-square" alt="ML stack" /> <img src="https://img.shields.io/badge/Deployment-Streamlit%20%7C%20Gradio%20%7C%20Docker-b7ab98?style=flat-square" alt="Deployment stack" /> </p>
+<!-- This SVG is generated by .github/workflows/profile-3d.yml. After pushing this README and workflow to your GitHub profile repository, run the workflow once from the Actions tab. --> <p align="center"> <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution graph" /> </p>
+Technical Toolkit
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,aws,docker,git,linux,mysql,mongodb,js,java,cpp&theme=dark" alt="Core tools" /> </p>
+Category	Tools
+Languages	Python, SQL, Java, C/C++, JavaScript
+ML and AI	PyTorch, TensorFlow, scikit-learn, XGBoost, LightGBM, Optuna
+Explainability	SHAP, LIME, DiCE, fairness auditing, counterfactual explanations
+Data	NumPy, Pandas, SciPy, xarray, NetCDF, OpenCV
+Systems	AWS, Docker, Git, Linux, Streamlit, Gradio, MySQL, MongoDB, Power BI
 GitHub Snapshot
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vishwas182002&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=b7ab98&text_color=e0ddd6&icon_color=b7ab98" height="165" alt="GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwas182002&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=b7ab98&text_color=e0ddd6" height="165" alt="Top languages" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vishwas182002&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=b7ab98&text_color=e0ddd6&icon_color=b7ab98" height="165" alt="GitHub stats" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=vishwas182002&hide_border=true&background=0d0d0d&ring=b7ab98&fire=b7ab98&currStreakLabel=b7ab98&sideLabels=e0ddd6&currStreakNum=e0ddd6&sideNums=e0ddd6&dates=8a8780" height="165" alt="GitHub streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwas182002&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=b7ab98&text_color=e0ddd6" height="165" alt="Top languages" /> </p>
 Current Focus
 Building explainable and auditable ML systems.
 Studying robustness, optimizer behavior, and feature learning.
-Turning research ideas into reproducible experiments, reports, and usable demos.
+Turning research ideas into reproducible experiments, reports, and demos.
 Working across financial AI, document intelligence, satellite data, and safety-critical ML.
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b7ab98,100:0d0d0d&height=120&section=footer" width="100%" alt="Footer wave" /> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b7ab98,100:0d0d0d&height=120&section=footer" width="100%" alt="Footer" /> </p>
