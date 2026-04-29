@@ -2,10 +2,7 @@
 About Me
 I’m Vishwas Kothari, a CS graduate student and AI researcher focused on building machine learning systems that are not only accurate, but understandable and trustworthy. My work spans explainable AI, data engineering, vision-language models, and ML research, with experience at ISRO’s Space Applications Centre and projects across financial AI, optimizer behavior, and robustness. I care about turning complex ideas into systems people can inspect, question, and rely on.
 
-
-
 3D Contribution Graph
-
 <p align="center"> <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D GitHub contribution graph" /> </p>
 Technical Focus
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,aws,docker,git,linux,mysql,mongodb,js,java,cpp&theme=dark" alt="Technical stack" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Explainable%20AI-SHAP%20%7C%20LIME%20%7C%20DiCE-b7ab98?style=flat-square" alt="Explainable AI" /> <img src="https://img.shields.io/badge/Data-NumPy%20%7C%20Pandas%20%7C%20SciPy%20%7C%20xarray-b7ab98?style=flat-square" alt="Data" /> <img src="https://img.shields.io/badge/Research-Optimization%20%7C%20Robustness%20%7C%20VQA-b7ab98?style=flat-square" alt="Research" /> </p>
