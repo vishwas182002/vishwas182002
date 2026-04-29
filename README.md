@@ -1,15 +1,64 @@
-# 💫 About Me:
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:151515,100:b7ab98&height=220&section=header&text=Vishwas%20Kothari&fontSize=54&fontColor=e0ddd6&animation=fadeIn&fontAlignY=38&desc=Explainable%20AI%20%7C%20Research%20%7C%20Data%20Engineering&descAlignY=58&descSize=16"
+    width="100%"
+    alt="Vishwas Kothari"
+  />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/vishwas-kothari">
+    <img src="https://img.shields.io/badge/LinkedIn-b7ab98?style=for-the-badge&logo=linkedin&logoColor=0d0d0d" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vishwasvkothari@gmail.com">
+    <img src="https://img.shields.io/badge/Email-b7ab98?style=for-the-badge&logo=gmail&logoColor=0d0d0d" alt="Email" />
+  </a>
+  <a href="https://github.com/vishwas182002">
+    <img src="https://img.shields.io/badge/GitHub-b7ab98?style=for-the-badge&logo=github&logoColor=0d0d0d" alt="GitHub" />
+  </a>
+</p>
+
+## About Me
+
 I’m Vishwas Kothari, a CS graduate student and AI researcher focused on building machine learning systems that are not only accurate, but understandable and trustworthy. My work spans explainable AI, data engineering, vision-language models, and ML research, with experience at ISRO’s Space Applications Centre and projects across financial AI, optimizer behavior, and robustness. I care about turning complex ideas into systems people can inspect, question, and rely on.
 
+## 3D Contribution Graph
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishwas-kothari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishwasvkothari@gmail.com) 
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution graph" />
+</p>
 
-# 💻 Tech Stack:
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=vishwas182002&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=vishwas182002&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vishwas182002&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## Technical Focus
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,aws,docker,git,linux,mysql,mongodb,js,java,cpp&theme=dark" alt="Technical stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Explainable%20AI-SHAP%20%7C%20LIME%20%7C%20DiCE-b7ab98?style=flat-square" alt="Explainable AI" />
+  <img src="https://img.shields.io/badge/Data-NumPy%20%7C%20Pandas%20%7C%20SciPy%20%7C%20xarray-b7ab98?style=flat-square" alt="Data" />
+  <img src="https://img.shields.io/badge/Research-Optimization%20%7C%20Robustness%20%7C%20VQA-b7ab98?style=flat-square" alt="Research" />
+</p>
+
+## GitHub Snapshot
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=vishwas182002&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=b7ab98&text_color=e0ddd6&icon_color=b7ab98"
+    height="165"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwas182002&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=b7ab98&text_color=e0ddd6"
+    height="165"
+    alt="Top languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:b7ab98,100:0d0d0d&height=110&section=footer"
+    width="100%"
+    alt="Footer"
+  />
+</p>
