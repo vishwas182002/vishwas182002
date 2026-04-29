@@ -1,45 +1,10 @@
-Vishwas Kothari
-CS graduate student and AI researcher working on explainable, reliable, and auditable machine learning systems.
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:151515,100:b7ab98&height=220&section=header&text=Vishwas%20Kothari&fontSize=54&fontColor=e0ddd6&animation=fadeIn&fontAlignY=38&desc=Explainable%20AI%20%7C%20Research%20%7C%20Data%20Engineering&descAlignY=58&descSize=16" width="100%" alt="Vishwas Kothari" /> </p> <p align="center"> <a href="https://linkedin.com/in/vishwas-kothari"> <img src="https://img.shields.io/badge/LinkedIn-b7ab98?style=for-the-badge&logo=linkedin&logoColor=0d0d0d" alt="LinkedIn" /> </a> <a href="mailto:vishwasvkothari@gmail.com"> <img src="https://img.shields.io/badge/Email-b7ab98?style=for-the-badge&logo=gmail&logoColor=0d0d0d" alt="Email" /> </a> <a href="https://github.com/vishwas182002"> <img src="https://img.shields.io/badge/GitHub-b7ab98?style=for-the-badge&logo=github&logoColor=0d0d0d" alt="GitHub" /> </a> </p>
+About Me
+I’m Vishwas Kothari, a CS graduate student and AI researcher focused on building machine learning systems that are not only accurate, but understandable and trustworthy. My work spans explainable AI, data engineering, vision-language models, and ML research, with experience at ISRO’s Space Applications Centre and projects across financial AI, optimizer behavior, and robustness. I care about turning complex ideas into systems people can inspect, question, and rely on.
 
-My work sits at the intersection of explainable AI, data engineering, vision-language models, and ML robustness. I have worked on satellite data processing at ISRO's Space Applications Centre, financial AI systems, document intelligence, optimizer behavior, and model interpretability.
-
-I care about building systems that people can inspect, question, and trust.
-
-<p> <a href="mailto:vishwasvkothari@gmail.com"><img src="https://img.shields.io/badge/email-vishwasvkothari%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://linkedin.com/in/vishwas-kothari"><img src="https://img.shields.io/badge/linkedin-vishwas--kothari-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://github.com/vishwas182002"><img src="https://img.shields.io/badge/github-vishwas182002-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a> </p>
-Current Focus
-Explainable and auditable ML systems.
-Robustness under distribution shift and spurious correlations.
-Vision-language models for financial and structured documents.
-Data pipelines for scientific and satellite sensor data.
-Turning research ideas into reproducible experiments, reports, and demos.
-Selected Work
-XAI Credit Lens
-Explainable credit risk framework with SHAP, LIME, DiCE, fairness auditing, and compliance mapping.
-Python XGBoost SHAP LIME DiCE Optuna Streamlit
-
-Financial Document VQA
-Benchmarked vision-language models on SEC 10-K filings and studied domain adaptation with LoRA fine-tuning.
-PyTorch LayoutLMv3 Donut Pix2Struct LoRA Gradio
-
-Implicit Bias of Adam vs. SGD
-Studied why different optimizers find different solutions in overparameterized models, connecting margin theory to empirical robustness on spurious-correlation benchmarks.
-PyTorch CVXPY NumPy Matplotlib Optimization
-
-XAI-Driven Collision Avoidance
-Interpretable V2V/V2I collision detection with transparent SHAP/LIME feature attribution for safety-critical decisions.
-Python Random Forest SHAP LIME
-
-Signals
-Research Intern, Space Applications Centre - ISRO.
-Professional Master's in Computer Science, University of Colorado Boulder.
-AWS Certified Cloud Practitioner: 970/1000.
-Springer publication on ethical AI.
-Reviewer for Elsevier journals in public health and social sciences.
-Technical Stack
-Languages: Python, SQL, Java, C/C++, JavaScript
-ML: PyTorch, TensorFlow, scikit-learn, XGBoost, LightGBM, Optuna
-Explainability: SHAP, LIME, DiCE, fairness auditing, counterfactual explanations
-Data: NumPy, Pandas, SciPy, xarray, NetCDF, OpenCV
-Systems: AWS, Docker, Git, Linux, Streamlit, Gradio, MySQL, MongoDB, Power BI
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vishwas182002&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&text_color=333333&icon_color=111111" height="155" alt="GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwas182002&layout=compact&hide_border=true&bg_color=ffffff&title_color=111111&text_color=333333" height="155" alt="Top languages" /> </p>
+3D Contribution Graph
+<p align="center"> <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D GitHub contribution graph" /> </p>
+Technical Focus
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,aws,docker,git,linux,mysql,mongodb,js,java,cpp&theme=dark" alt="Technical stack" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Explainable%20AI-SHAP%20%7C%20LIME%20%7C%20DiCE-b7ab98?style=flat-square" alt="Explainable AI" /> <img src="https://img.shields.io/badge/Data-NumPy%20%7C%20Pandas%20%7C%20SciPy%20%7C%20xarray-b7ab98?style=flat-square" alt="Data" /> <img src="https://img.shields.io/badge/Research-Optimization%20%7C%20Robustness%20%7C%20VQA-b7ab98?style=flat-square" alt="Research" /> </p>
+GitHub Snapshot
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vishwas182002&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=b7ab98&text_color=e0ddd6&icon_color=b7ab98" height="165" alt="GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwas182002&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=b7ab98&text_color=e0ddd6" height="165" alt="Top languages" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b7ab98,100:0d0d0d&height=110&section=footer" width="100%" alt="Footer" /> </p>
