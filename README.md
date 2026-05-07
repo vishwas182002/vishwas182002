@@ -31,14 +31,14 @@ I care about turning complex ideas into systems people can inspect, question, an
 <h2>Research &amp; Engineering Focus</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Explainable%20AI-SHAP%20%7C%20LIME%20%7C%20DiCE-c9b37e?style=for-the-badge&amp;labelColor=050505" alt="Explainable AI" />
-  <img src="https://img.shields.io/badge/ML%20Research-Optimization%20%7C%20Robustness-9caf88?style=for-the-badge&amp;labelColor=050505" alt="ML Research" />
-  <img src="https://img.shields.io/badge/Data%20Engineering-Pipelines%20%7C%20Validation-b7a56a?style=for-the-badge&amp;labelColor=050505" alt="Data Engineering" />
+  <img src="https://img.shields.io/badge/Explainable%20AI-SHAP%20%7C%20LIME%20%7C%20DiCE-9caf88?style=for-the-badge&amp;labelColor=050505" alt="Explainable AI" />
+  <img src="https://img.shields.io/badge/ML%20Research-Optimization%20%7C%20Robustness-c9b37e?style=for-the-badge&amp;labelColor=050505" alt="ML Research" />
+  <img src="https://img.shields.io/badge/Data%20Engineering-Pipelines%20%7C%20Validation-a8b99a?style=for-the-badge&amp;labelColor=050505" alt="Data Engineering" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Vision--Language%20Models-Document%20AI-d6c28f?style=for-the-badge&amp;labelColor=050505" alt="Vision-language models" />
-  <img src="https://img.shields.io/badge/Fairness%20%26%20Trust-Auditable%20ML-a8b99a?style=for-the-badge&amp;labelColor=050505" alt="Fairness and trust" />
+  <img src="https://img.shields.io/badge/Vision--Language%20Models-Document%20AI-b7a56a?style=for-the-badge&amp;labelColor=050505" alt="Vision-language models" />
+  <img src="https://img.shields.io/badge/Fairness%20%26%20Trust-Auditable%20ML-d6c28f?style=for-the-badge&amp;labelColor=050505" alt="Fairness and trust" />
 </p>
 
 <h2>Tech Stack</h2>
@@ -81,6 +81,27 @@ I care about turning complex ideas into systems people can inspect, question, an
     </td>
     <td>
       Springer publication on ethical AI and peer-review work with Elsevier journals.
+    </td>
+  </tr>
+</table>
+
+<h2>Publication</h2>
+
+<table>
+  <tr>
+    <td width="34%">
+      <strong>Empowering Survivors</strong><br />
+      <sub>Ethical Artificial Intelligence for Countering Violence Against Women</sub><br /><br />
+      <a href="https://doi.org/10.1007/978-981-96-6046-9_26">DOI: 10.1007/978-981-96-6046-9_26</a>
+    </td>
+    <td>
+      Springer book chapter in <em>Data Mining and Information Security</em>, focused on ethical AI systems for survivor support, privacy-aware intervention, and risk identification.
+      <details>
+        <summary><strong>Abstract</strong></summary>
+        <p>
+          The maltreatment of women is a problem that affects all countries. Prevention, intervention, and support are among the many uses that can be provided through artificial intelligence. This paper discusses how artificial intelligence can be used ethically in the fight against VAWs. One way is through chatbots which could guide victims toward resources and legal remedies without having to reveal their identity. Furthermore, by sifting through information collected from different sources, such systems may also help identify risk factors or predict where violence might occur next. In any case, we must always remember about the privacy concerns when it comes to handling sensitive data thus while designing such approaches, fairness issues should also be taken into consideration so that some degree of human control remains. AI should not only support our global efforts to end violence against women but also empower survivors.
+        </p>
+      </details>
     </td>
   </tr>
 </table>
