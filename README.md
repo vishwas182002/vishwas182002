@@ -1,15 +1,137 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,45:151515,100:b7ab98&height=220&section=header&text=Vishwas%20Kothari&fontSize=54&fontColor=e0ddd6&animation=fadeIn&fontAlignY=38&desc=Explainable%20AI%20%7C%20Research%20%7C%20Data%20Engineering&descAlignY=58&descSize=16" width="100%" alt="Vishwas Kothari" /> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=22&duration=2600&pause=900&color=B7AB98&center=true&vCenter=true&width=760&lines=Building+machine+learning+systems+people+can+trust.;Explainable+AI+%7C+Research+%7C+Data+Engineering.;Turning+complex+models+into+auditable+systems." alt="Typing SVG" /> </p> <p align="center"> <a href="https://linkedin.com/in/vishwas-kothari"> <img src="https://img.shields.io/badge/LinkedIn-b7ab98?style=for-the-badge&logo=linkedin&logoColor=0d0d0d" alt="LinkedIn" /> </a> <a href="mailto:vishwasvkothari@gmail.com"> <img src="https://img.shields.io/badge/Email-b7ab98?style=for-the-badge&logo=gmail&logoColor=0d0d0d" alt="Email" /> </a> <a href="https://github.com/vishwas182002"> <img src="https://img.shields.io/badge/GitHub-b7ab98?style=for-the-badge&logo=github&logoColor=0d0d0d" alt="GitHub" /> </a> </p>
-<h2>About Me</h2> <p> I’m Vishwas Kothari, a CS graduate student and AI researcher focused on building machine learning systems that are not only accurate, but understandable and trustworthy. My work spans explainable AI, data engineering, vision-language models, and ML research, with experience at ISRO’s Space Applications Centre and projects across financial AI, optimizer behavior, and robustness. I care about turning complex ideas into systems people can inspect, question, and rely on. </p>
-Research & Engineering Focus
-<p align="center"> <img src="https://img.shields.io/badge/Explainable%20AI-SHAP%20%7C%20LIME%20%7C%20DiCE-b7ab98?style=for-the-badge&labelColor=0d0d0d" alt="Explainable AI" /> <img src="https://img.shields.io/badge/ML%20Research-Optimization%20%7C%20Robustness-b7ab98?style=for-the-badge&labelColor=0d0d0d" alt="ML Research" /> <img src="https://img.shields.io/badge/Data%20Engineering-Pipelines%20%7C%20Validation-b7ab98?style=for-the-badge&labelColor=0d0d0d" alt="Data Engineering" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Vision--Language%20Models-Document%20AI-b7ab98?style=for-the-badge&labelColor=0d0d0d" alt="Vision-language models" /> <img src="https://img.shields.io/badge/Fairness%20%26%20Trust-Auditable%20ML-b7ab98?style=for-the-badge&labelColor=0d0d0d" alt="Fairness and trust" /> </p>
-Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,aws,docker,git,linux,mysql,mongodb,js,java,cpp&theme=dark" alt="Technical stack" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Data-NumPy%20%7C%20Pandas%20%7C%20SciPy%20%7C%20xarray-b7ab98?style=flat-square&labelColor=0d0d0d" alt="Data tools" /> <img src="https://img.shields.io/badge/Modeling-XGBoost%20%7C%20LightGBM%20%7C%20CVXPY-b7ab98?style=flat-square&labelColor=0d0d0d" alt="Modeling tools" /> <img src="https://img.shields.io/badge/Interfaces-Streamlit%20%7C%20Gradio%20%7C%20Power%20BI-b7ab98?style=flat-square&labelColor=0d0d0d" alt="Interfaces" /> </p>
-Experience Snapshot
-<table> <tr> <td width="34%"> <strong>Research Intern</strong><br /> <sub>Space Applications Centre - ISRO</sub> </td> <td> Built Python pipelines for satellite sensor data processing, NetCDF merging, optimization, and cross-sensor validation. </td> </tr> <tr> <td width="34%"> <strong>Professional Master's in CS</strong><br /> <sub>University of Colorado Boulder</sub> </td> <td> Graduate work focused on machine learning, interpretability, and real-world deployment. </td> </tr> <tr> <td width="34%"> <strong>Publication & Reviewing</strong><br /> <sub>Springer · Elsevier</sub> </td> <td> Springer publication on ethical AI and peer-review work with Elsevier journals. </td> </tr> </table>
-Highlighted Work
-<table> <tr> <td width="34%"> <strong>XAI Credit Lens</strong><br /> <sub>Explainable credit risk</sub> </td> <td> SHAP, LIME, DiCE, fairness auditing, and regulatory mapping for transparent credit-risk decisions. </td> </tr> <tr> <td width="34%"> <strong>Financial Document VQA</strong><br /> <sub>Vision-language models</sub> </td> <td> Benchmarked models on SEC 10-K filings and improved domain performance with LoRA. </td> </tr> <tr> <td width="34%"> <strong>Implicit Bias of Adam vs. SGD</strong><br /> <sub>Optimizer behavior</sub> </td> <td> Studied max-margin solutions, optimizer geometry, and patched-MNIST spurious correlations. </td> </tr> </table>
-3D Contribution Graph
-<p align="center"> <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D GitHub contribution graph" /> </p>
-GitHub Snapshot
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vishwas182002&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=b7ab98&text_color=e0ddd6&icon_color=b7ab98" height="165" alt="GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwas182002&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=b7ab98&text_color=e0ddd6" height="165" alt="Top languages" /> </p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b7ab98,100:0d0d0d&height=110&section=footer" width="100%" alt="Footer" /> </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,100:22d3ee&height=220&section=header&text=Vishwas%20Kothari&fontSize=54&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=Explainable%20AI%20%7C%20Research%20%7C%20Data%20Engineering&descAlignY=58&descSize=16" width="100%" alt="Vishwas Kothari" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=22&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+machine+learning+systems+people+can+trust.;Explainable+AI+%7C+Research+%7C+Data+Engineering.;Turning+complex+models+into+auditable+systems." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/vishwas-kothari">
+    <img src="https://img.shields.io/badge/LinkedIn-22d3ee?style=for-the-badge&logo=linkedin&logoColor=020617" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vishwasvkothari@gmail.com">
+    <img src="https://img.shields.io/badge/Email-5eead4?style=for-the-badge&logo=gmail&logoColor=020617" alt="Email" />
+  </a>
+  <a href="https://github.com/vishwas182002">
+    <img src="https://img.shields.io/badge/GitHub-e2e8f0?style=for-the-badge&logo=github&logoColor=020617" alt="GitHub" />
+  </a>
+</p>
+
+<br />
+
+<h2>About Me</h2>
+
+<p>
+I’m <strong>Vishwas Kothari</strong>, a CS graduate student and AI researcher focused on building machine learning systems that are not only accurate, but understandable and trustworthy.
+My work spans explainable AI, data engineering, vision-language models, and ML research, with experience at ISRO’s Space Applications Centre and projects across financial AI, optimizer behavior, and robustness.
+I care about turning complex ideas into systems people can inspect, question, and rely on.
+</p>
+
+<h2>Research & Engineering Focus</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Explainable%20AI-SHAP%20%7C%20LIME%20%7C%20DiCE-22d3ee?style=for-the-badge&labelColor=020617" alt="Explainable AI" />
+  <img src="https://img.shields.io/badge/ML%20Research-Optimization%20%7C%20Robustness-5eead4?style=for-the-badge&labelColor=020617" alt="ML Research" />
+  <img src="https://img.shields.io/badge/Data%20Engineering-Pipelines%20%7C%20Validation-38bdf8?style=for-the-badge&labelColor=020617" alt="Data Engineering" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vision--Language%20Models-Document%20AI-67e8f9?style=for-the-badge&labelColor=020617" alt="Vision-language models" />
+  <img src="https://img.shields.io/badge/Fairness%20%26%20Trust-Auditable%20ML-a7f3d0?style=for-the-badge&labelColor=020617" alt="Fairness and trust" />
+</p>
+
+<h2>Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,aws,docker,git,linux,mysql,mongodb,js,java,cpp&theme=dark" alt="Technical stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data-NumPy%20%7C%20Pandas%20%7C%20SciPy%20%7C%20xarray-22d3ee?style=flat-square&labelColor=020617" alt="Data tools" />
+  <img src="https://img.shields.io/badge/Modeling-XGBoost%20%7C%20LightGBM%20%7C%20CVXPY-5eead4?style=flat-square&labelColor=020617" alt="Modeling tools" />
+  <img src="https://img.shields.io/badge/Interfaces-Streamlit%20%7C%20Gradio%20%7C%20Power%20BI-38bdf8?style=flat-square&labelColor=020617" alt="Interfaces" />
+</p>
+
+<h2>Experience Snapshot</h2>
+
+<table>
+  <tr>
+    <td width="34%">
+      <strong>Research Intern</strong><br />
+      <sub>Space Applications Centre - ISRO</sub>
+    </td>
+    <td>
+      Built Python pipelines for satellite sensor data processing, NetCDF merging, optimization, and cross-sensor validation.
+    </td>
+  </tr>
+  <tr>
+    <td width="34%">
+      <strong>Professional Master's in CS</strong><br />
+      <sub>University of Colorado Boulder</sub>
+    </td>
+    <td>
+      Graduate work focused on machine learning, interpretability, and real-world deployment.
+    </td>
+  </tr>
+  <tr>
+    <td width="34%">
+      <strong>Publication & Reviewing</strong><br />
+      <sub>Springer · Elsevier</sub>
+    </td>
+    <td>
+      Springer publication on ethical AI and peer-review work with Elsevier journals.
+    </td>
+  </tr>
+</table>
+
+<h2>Highlighted Work</h2>
+
+<table>
+  <tr>
+    <td width="34%">
+      <strong>XAI Credit Lens</strong><br />
+      <sub>Explainable credit risk</sub>
+    </td>
+    <td>
+      SHAP, LIME, DiCE, fairness auditing, and regulatory mapping for transparent credit-risk decisions.
+    </td>
+  </tr>
+  <tr>
+    <td width="34%">
+      <strong>Financial Document VQA</strong><br />
+      <sub>Vision-language models</sub>
+    </td>
+    <td>
+      Benchmarked models on SEC 10-K filings and improved domain performance with LoRA.
+    </td>
+  </tr>
+  <tr>
+    <td width="34%">
+      <strong>Implicit Bias of Adam vs. SGD</strong><br />
+      <sub>Optimizer behavior</sub>
+    </td>
+    <td>
+      Studied max-margin solutions, optimizer geometry, and patched-MNIST spurious correlations.
+    </td>
+  </tr>
+</table>
+
+<h2 align="center">GitHub Activity</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishwas182002&theme=github_dark" width="96%" alt="GitHub profile summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishwas182002&amp;show_icons=true&amp;hide_border=true&amp;bg_color=020617&amp;title_color=22d3ee&amp;text_color=e2e8f0&amp;icon_color=5eead4" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwas182002&amp;layout=compact&amp;hide_border=true&amp;bg_color=020617&amp;title_color=22d3ee&amp;text_color=e2e8f0" height="165" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vishwas182002&amp;hide_border=true&amp;background=020617&amp;ring=22d3ee&amp;fire=5eead4&amp;currStreakLabel=22d3ee&amp;sideLabels=e2e8f0&amp;currStreakNum=e2e8f0&amp;sideNums=e2e8f0&amp;dates=94a3b8" width="60%" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:0f172a,100:020617&height=110&section=footer" width="100%" alt="Footer" />
+</p>
