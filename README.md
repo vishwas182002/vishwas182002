@@ -117,19 +117,22 @@ I care about turning complex ideas into systems people can inspect, question, an
   </tr>
 </table>
 
-<h2 align="center">GitHub Activity</h2>
+<h2 align="center">3D Contribution Graph</h2>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution graph" />
+</p>
+
+<h2 align="center">GitHub Snapshot</h2>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishwas182002&theme=github_dark" width="96%" alt="GitHub profile summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishwas182002&amp;show_icons=true&amp;hide_border=true&amp;bg_color=020617&amp;title_color=22d3ee&amp;text_color=e2e8f0&amp;icon_color=5eead4" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwas182002&amp;layout=compact&amp;hide_border=true&amp;bg_color=020617&amp;title_color=22d3ee&amp;text_color=e2e8f0" height="165" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vishwas182002&amp;hide_border=true&amp;background=020617&amp;ring=22d3ee&amp;fire=5eead4&amp;currStreakLabel=22d3ee&amp;sideLabels=e2e8f0&amp;currStreakNum=e2e8f0&amp;sideNums=e2e8f0&amp;dates=94a3b8" width="60%" alt="GitHub streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishwas182002&theme=github_dark" width="32%" alt="Repositories per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vishwas182002&theme=github_dark" width="32%" alt="Most commit language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishwas182002&theme=github_dark" width="32%" alt="GitHub stats" />
 </p>
 
 <p align="center">
