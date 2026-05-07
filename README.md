@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,100:22d3ee&height=220&section=header&text=Vishwas%20Kothari&fontSize=54&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=Explainable%20AI%20%7C%20Research%20%7C%20Data%20Engineering&descAlignY=58&descSize=16" width="100%" alt="Vishwas Kothari" />
 </p>
-
+`
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=22&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+machine+learning+systems+people+can+trust.;Explainable+AI+%7C+Research+%7C+Data+Engineering.;Turning+complex+models+into+auditable+systems." alt="Typing SVG" />
 </p>
@@ -117,15 +117,6 @@ I care about turning complex ideas into systems people can inspect, question, an
   </tr>
 </table>
 
-<!-- Pinned Repo Cards — replace repo names with your actual repo names -->
-<p align="center">
-  <a href="https://github.com/vishwas182002/XAI-Credit-Lens">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishwas182002&repo=XAI-Credit-Lens&theme=github_dark&hide_border=true&icon_color=22d3ee&title_color=22d3ee" alt="XAI Credit Lens" />
-  </a>
-  <a href="https://github.com/vishwas182002/Financial-Document-VQA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishwas182002&repo=Financial-Document-VQA&theme=github_dark&hide_border=true&icon_color=22d3ee&title_color=22d3ee" alt="Financial Document VQA" />
-  </a>
-</p>
 
 <h2 align="center">GitHub Trophies</h2>
 
