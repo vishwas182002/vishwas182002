@@ -23,8 +23,8 @@
 <h2>About Me</h2>
 
 <p>
-I’m <strong>Vishwas Kothari</strong>, a CS graduate student and AI researcher focused on building machine learning systems that are not only accurate, but understandable and trustworthy.
-My work spans explainable AI, data engineering, vision-language models, and ML research, with experience at ISRO’s Space Applications Centre and projects across financial AI, optimizer behavior, and robustness.
+I'm <strong>Vishwas Kothari</strong>, a CS graduate student and AI researcher focused on building machine learning systems that are not only accurate, but understandable and trustworthy.
+My work spans explainable AI, data engineering, vision-language models, and ML research, with experience at ISRO's Space Applications Centre and projects across financial AI, optimizer behavior, and robustness.
 I care about turning complex ideas into systems people can inspect, question, and rely on.
 </p>
 
@@ -90,7 +90,7 @@ I care about turning complex ideas into systems people can inspect, question, an
 <table>
   <tr>
     <td width="34%">
-      <strong>XAI Credit Lens</strong><br />
+      <a href="https://github.com/vishwas182002/XAI-Credit-Lens"><strong>XAI Credit Lens</strong></a><br />
       <sub>Explainable credit risk</sub>
     </td>
     <td>
@@ -99,7 +99,7 @@ I care about turning complex ideas into systems people can inspect, question, an
   </tr>
   <tr>
     <td width="34%">
-      <strong>Financial Document VQA</strong><br />
+      <a href="https://github.com/vishwas182002/Financial-Document-VQA"><strong>Financial Document VQA</strong></a><br />
       <sub>Vision-language models</sub>
     </td>
     <td>
@@ -108,7 +108,7 @@ I care about turning complex ideas into systems people can inspect, question, an
   </tr>
   <tr>
     <td width="34%">
-      <strong>Implicit Bias of Adam vs. SGD</strong><br />
+      <a href="https://github.com/vishwas182002/Implicit-Bias-Adam-SGD"><strong>Implicit Bias of Adam vs. SGD</strong></a><br />
       <sub>Optimizer behavior</sub>
     </td>
     <td>
@@ -117,13 +117,39 @@ I care about turning complex ideas into systems people can inspect, question, an
   </tr>
 </table>
 
+<!-- Pinned Repo Cards — replace repo names with your actual repo names -->
+<p align="center">
+  <a href="https://github.com/vishwas182002/XAI-Credit-Lens">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishwas182002&repo=XAI-Credit-Lens&theme=github_dark&hide_border=true&icon_color=22d3ee&title_color=22d3ee" alt="XAI Credit Lens" />
+  </a>
+  <a href="https://github.com/vishwas182002/Financial-Document-VQA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishwas182002&repo=Financial-Document-VQA&theme=github_dark&hide_border=true&icon_color=22d3ee&title_color=22d3ee" alt="Financial Document VQA" />
+  </a>
+</p>
+
+<h2 align="center">GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vishwas182002&theme=darkhub&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
+</p>
+
 <h2 align="center">3D Contribution Graph</h2>
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution graph" />
 </p>
 
+<h2 align="center">Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwas182002&bg_color=020617&color=e2e8f0&line=22d3ee&point=5eead4&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
+</p>
+
 <h2 align="center">GitHub Snapshot</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vishwas182002&theme=dark&hide_border=true&background=020617&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=e2e8f0&dates=94a3b8" alt="GitHub Streak" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishwas182002&theme=github_dark" width="96%" alt="GitHub profile summary" />
