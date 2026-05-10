@@ -1,10 +1,9 @@
-<!-- ══════════════ ANIMATED HEADER ══════════════ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050505,45:111111,100:c9b37e&amp;height=220&amp;section=header&amp;text=Vishwas%20Kothari&amp;fontSize=54&amp;fontColor=e8e3d3&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Explainable%20AI%20%7C%20Research%20%7C%20Data%20Engineering&amp;descAlignY=58&amp;descSize=16" width="100%" alt="Vishwas Kothari" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&amp;weight=500&amp;size=22&amp;duration=2600&amp;pause=900&amp;color=C9B37E&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Building+machine+learning+systems+people+can+trust.;Explainable+AI+%7C+Research+%7C+Data+Engineering.;Turning+complex+models+into+auditable+systems." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&amp;weight=500&amp;size=22&amp;duration=2600&amp;pause=900&amp;color=C9B37E&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Building+machine+learning+systems+people+can+trust.;Explainable+AI+%7C+Research%20Systems%20%7C%20Data%20Engineering.;Turning+complex+models+into+auditable+systems." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -21,95 +20,93 @@
 
 <br />
 
----
+## Research Thesis
 
-### ✦ Philosophy
+> I build machine learning systems that do more than predict.  
+> They should explain their reasoning, expose their limits, and remain inspectable by the people who depend on them.
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <p align="center">
-          <strong>I believe machine learning should not only predict, but justify its reasoning.</strong><br />
-          Turning black-box models into systems that are inspectable, auditable, and trustworthy.
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-I'm **Vishwas Kothari**, a CS graduate student and AI researcher bridging **explainable AI**, **data engineering**, **vision-language models**, and **optimizer behavior**. I have interned at ISRO's Space Applications Centre and published on ethical AI. I build ML artifacts that people can **read, question, and rely on**.
+I'm **Vishwas Kothari**, a CS graduate student and AI researcher working across **explainable AI**, **data engineering**, **vision-language models**, and **ML research**. My experience includes research work at **ISRO's Space Applications Centre**, a Springer publication on ethical AI, and applied projects in financial AI, document understanding, optimizer behavior, and model trust.
 
 <br />
 
----
-
-### ✦ Research Universe
+## Research System
 
 ```mermaid
-mindmap
-  root((Vishwas Kothari))
-    Explainable AI
-      SHAP / LIME / DiCE
-      Fairness Auditing
-      Regulatory Mapping
-    ML Research
-      Optimizer Behavior
-      Robustness & Generalization
-      Ethical AI
-    Data Engineering
-      Satellite Pipelines
-      NetCDF / xarray
-      Validation Frameworks
-    Vision-Language Models
-      Document VQA
-      LoRA Fine-Tuning
-      Domain Benchmarks
+flowchart LR
+    A["Trustworthy ML Systems"] --> B["Explainability"]
+    A --> C["Data Reliability"]
+    A --> D["Model Evaluation"]
+    A --> E["Human-Centered AI"]
+
+    B --> B1["SHAP / LIME / DiCE"]
+    B --> B2["Fairness Auditing"]
+    B --> B3["Regulatory Mapping"]
+
+    C --> C1["Satellite Data Pipelines"]
+    C --> C2["NetCDF / xarray"]
+    C --> C3["Cross-Sensor Validation"]
+
+    D --> D1["Optimizer Behavior"]
+    D --> D2["Robustness"]
+    D --> D3["Domain Benchmarks"]
+
+    E --> E1["Ethical AI"]
+    E --> E2["Survivor Support Systems"]
+    E --> E3["Auditable Decisions"]
 ```
 
 <br />
 
----
+## Focus Areas
 
-### ✦ Experience Timeline
+<p align="center">
+  <img src="https://img.shields.io/badge/Explainable%20AI-SHAP%20%7C%20LIME%20%7C%20DiCE-9caf88?style=for-the-badge&amp;labelColor=050505" alt="Explainable AI" />
+  <img src="https://img.shields.io/badge/ML%20Research-Optimization%20%7C%20Robustness-c9b37e?style=for-the-badge&amp;labelColor=050505" alt="ML Research" />
+  <img src="https://img.shields.io/badge/Data%20Engineering-Pipelines%20%7C%20Validation-a8b99a?style=for-the-badge&amp;labelColor=050505" alt="Data Engineering" />
+</p>
 
-```mermaid
-timeline
-    title Professional Journey
-    2023 : Started Professional Master's in CS at CU Boulder
-    2024 : Research Intern at ISRO Space Applications Centre
-         : Published Springer chapter on ethical AI
-    2025 : Peer reviewer for Elsevier
-         : Built XAI Credit Lens and VQA systems
-```
-
-<br />
-
----
-
-### ✦ Research Landscape
-
-```mermaid
-quadrantChart
-    title Research Focus Landscape
-    x-axis Theory --> Practice
-    y-axis Specific --> General
-    quadrant-1 Deployable and Broad
-    quadrant-2 Theoretical and Broad
-    quadrant-3 Theoretical and Niche
-    quadrant-4 Practical and Niche
-    Explainable AI: [0.30, 0.80]
-    Data Engineering: [0.85, 0.70]
-    Vision-Language Models: [0.50, 0.50]
-    Optimizer Behavior: [0.20, 0.30]
-    Ethical AI: [0.10, 0.90]
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Vision--Language%20Models-Document%20AI-b7a56a?style=for-the-badge&amp;labelColor=050505" alt="Vision-language models" />
+  <img src="https://img.shields.io/badge/Fairness%20%26%20Trust-Auditable%20ML-d6c28f?style=for-the-badge&amp;labelColor=050505" alt="Fairness and trust" />
+</p>
 
 <br />
 
----
+## Experience
 
-### ✦ Publication Highlight
+<table>
+  <tr>
+    <td width="34%">
+      <strong>Research Intern</strong><br />
+      <sub>Space Applications Centre - ISRO</sub>
+    </td>
+    <td>
+      Built Python pipelines for satellite sensor data processing, NetCDF merging, optimization, and cross-sensor validation.
+    </td>
+  </tr>
+  <tr>
+    <td width="34%">
+      <strong>Professional Master's in CS</strong><br />
+      <sub>University of Colorado Boulder</sub>
+    </td>
+    <td>
+      Graduate work focused on machine learning, interpretability, research systems, and real-world deployment.
+    </td>
+  </tr>
+  <tr>
+    <td width="34%">
+      <strong>Publication &amp; Peer Review</strong><br />
+      <sub>Springer &middot; Elsevier</sub>
+    </td>
+    <td>
+      Springer book chapter on ethical AI and peer-review work with Elsevier journals.
+    </td>
+  </tr>
+</table>
+
+<br />
+
+## Publication
 
 <table>
   <tr>
@@ -132,41 +129,41 @@ quadrantChart
 
 <br />
 
----
-
-### ✦ Featured Projects
+## Selected Work
 
 <table>
   <tr>
-    <td width="33%">
+    <td width="34%">
       <a href="https://github.com/vishwas182002/XAI-Credit-Lens"><strong>XAI Credit Lens</strong></a><br />
-      <sub>Explainable credit risk</sub><br /><br />
-      SHAP, LIME, DiCE<br />
-      Fairness auditing<br />
-      Regulatory mapping
+      <sub>Explainable credit risk</sub>
     </td>
-    <td width="33%">
-      <a href="https://github.com/vishwas182002/Financial-Document-VQA"><strong>Financial Doc VQA</strong></a><br />
-      <sub>Vision-language models</sub><br /><br />
-      SEC 10-K filings<br />
-      LoRA fine-tuning<br />
-      Domain benchmarks
+    <td>
+      Built an explainable credit-risk workflow using SHAP, LIME, DiCE, fairness auditing, and regulatory mapping for transparent model decisions.
     </td>
-    <td width="33%">
-      <a href="https://github.com/vishwas182002/Implicit-Bias-Adam-SGD"><strong>Adam vs. SGD Bias</strong></a><br />
-      <sub>Optimizer behavior</sub><br /><br />
-      Max-margin solutions<br />
-      Optimizer geometry<br />
-      Spurious correlations
+  </tr>
+  <tr>
+    <td width="34%">
+      <a href="https://github.com/vishwas182002/Financial-Document-VQA"><strong>Financial Document VQA</strong></a><br />
+      <sub>Vision-language models</sub>
+    </td>
+    <td>
+      Benchmarked vision-language models on SEC 10-K filings and improved domain performance with LoRA fine-tuning.
+    </td>
+  </tr>
+  <tr>
+    <td width="34%">
+      <a href="https://github.com/vishwas182002/Implicit-Bias-Adam-SGD"><strong>Implicit Bias of Adam vs. SGD</strong></a><br />
+      <sub>Optimizer behavior</sub>
+    </td>
+    <td>
+      Studied max-margin solutions, optimizer geometry, and patched-MNIST spurious correlations to compare Adam and SGD behavior.
     </td>
   </tr>
 </table>
 
 <br />
 
----
-
-### ✦ Skill Spectrum
+## Technical Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,aws,docker,git,linux,mysql,mongodb,js,java,cpp&amp;theme=dark" alt="Technical stack" />
@@ -180,24 +177,30 @@ quadrantChart
 
 <br />
 
----
+## Research Compass
 
-### ✦ GitHub Skyline
-
-<p align="center">
-  <a href="https://skyline.github.com/vishwas182002/2024">
-    <img src="https://img.shields.io/badge/Explore%20my%203D%20contribution%20city-skyline.github.com-c9b37e?style=for-the-badge&amp;labelColor=050505" alt="GitHub Skyline" />
-  </a>
-</p>
+```mermaid
+quadrantChart
+    title Research Focus Landscape
+    x-axis Theory --> Practice
+    y-axis Specific --> General
+    quadrant-1 Deployable and Broad
+    quadrant-2 Theoretical and Broad
+    quadrant-3 Theoretical and Niche
+    quadrant-4 Practical and Niche
+    Explainable AI: [0.35, 0.82]
+    Data Engineering: [0.86, 0.70]
+    Vision-Language Models: [0.58, 0.55]
+    Optimizer Behavior: [0.22, 0.32]
+    Ethical AI: [0.30, 0.92]
+```
 
 <br />
 
----
-
-<h2 align="center">✦ Contribution Constellation ✦</h2>
+## Contribution Constellation
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution graph" />
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D GitHub contribution graph" />
 </p>
 
 <p align="center">
@@ -216,6 +219,12 @@ quadrantChart
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishwas182002&amp;theme=github_dark" width="32%" alt="Repositories per language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vishwas182002&amp;theme=github_dark" width="32%" alt="Most commit language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishwas182002&amp;theme=github_dark" width="32%" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <a href="https://skyline.github.com/vishwas182002/2024">
+    <img src="https://img.shields.io/badge/Explore%20my%203D%20contribution%20city-skyline.github.com-c9b37e?style=for-the-badge&amp;labelColor=050505" alt="GitHub Skyline" />
+  </a>
 </p>
 
 <p align="center">
