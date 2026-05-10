@@ -21,10 +21,8 @@
     </filter>
   </defs>
 
-  <!-- Background -->
   <rect width="880" height="260" fill="url(#bgGrad)" rx="30"/>
 
-  <!-- Particle grid (subtle tech feel) -->
   <g fill="#c9b37e" opacity="0.1">
     <circle cx="40" cy="30" r="1.5"><animate attributeName="opacity" values="0;0.6;0" dur="3s" repeatCount="indefinite"/></circle>
     <circle cx="150" cy="80" r="1"><animate attributeName="opacity" values="0;0.5;0" dur="2.5s" repeatCount="indefinite" begin="0.5s"/></circle>
@@ -34,13 +32,10 @@
     <circle cx="500" cy="40" r="1.5"><animate attributeName="opacity" values="0;0.5;0" dur="3.2s" repeatCount="indefinite" begin="1.8s"/></circle>
   </g>
 
-  <!-- Abstract VK monogram -->
   <g transform="translate(40, 60)" filter="url(#glow)">
-    <!-- V -->
     <path d="M 15 10 L 35 60 L 55 10" stroke="url(#goldGrad)" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round">
       <animate attributeName="stroke-dasharray" from="0 150" to="150 0" dur="1.5s" fill="freeze"/>
     </path>
-    <!-- K -->
     <g transform="translate(70, 0)">
       <path d="M 10 10 L 10 60 M 10 35 L 35 10 M 10 35 L 35 60" stroke="url(#goldGrad)" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round">
         <animate attributeName="stroke-dasharray" from="0 120" to="120 0" dur="1.5s" begin="0.8s" fill="freeze"/>
@@ -48,18 +43,15 @@
     </g>
   </g>
 
-  <!-- Name with fade-in -->
   <text x="250" y="135" font-family="Georgia, serif" font-size="48" font-weight="bold" fill="#e8e3d3" letter-spacing="4" opacity="0">
     Vishwas Kothari
     <animate attributeName="opacity" from="0" to="1" dur="2s" begin="1.5s" fill="freeze"/>
   </text>
 
-  <!-- Decorative line -->
   <line x1="250" y1="155" x2="620" y2="155" stroke="#c9b37e" stroke-width="1.5" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="1s" begin="2.2s" fill="freeze"/>
   </line>
 
-  <!-- Subtitle -->
   <text x="435" y="185" font-family="'Courier New', monospace" font-size="15" fill="#9caf88" text-anchor="middle" opacity="0" letter-spacing="2">
     Explainable AI  •  Research  •  Data Engineering
     <animate attributeName="opacity" from="0" to="1" dur="1.5s" begin="2.8s" fill="freeze"/>
@@ -69,20 +61,18 @@
 <br/>
 <br/>
 
-<!-- Dynamic typing (kept from original) -->
-<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=22&duration=2600&pause=900&color=C9B37E&center=true&vCenter=true&width=760&lines=Building+machine+learning+systems+people+can+trust.;Explainable+AI+%7C+Research+%7C+Data+Engineering.;Turning+complex+models+into+auditable+systems." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&amp;weight=500&amp;size=22&amp;duration=2600&amp;pause=900&amp;color=C9B37E&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Building+machine+learning+systems+people+can+trust.;Explainable+AI+%7C+Research+%7C+Data+Engineering.;Turning+complex+models+into+auditable+systems." alt="Typing SVG" />
 
 <br/>
 
-<!-- Social badges -->
 <a href="https://linkedin.com/in/vishwas-kothari">
-  <img src="https://img.shields.io/badge/LinkedIn-c9b37e?style=for-the-badge&logo=linkedin&logoColor=050505" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-c9b37e?style=for-the-badge&amp;logo=linkedin&amp;logoColor=050505" alt="LinkedIn" />
 </a>
 <a href="mailto:vishwasvkothari@gmail.com">
-  <img src="https://img.shields.io/badge/Email-9caf88?style=for-the-badge&logo=gmail&logoColor=050505" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-9caf88?style=for-the-badge&amp;logo=gmail&amp;logoColor=050505" alt="Email" />
 </a>
 <a href="https://github.com/vishwas182002">
-  <img src="https://img.shields.io/badge/GitHub-e8e3d3?style=for-the-badge&logo=github&logoColor=050505" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-e8e3d3?style=for-the-badge&amp;logo=github&amp;logoColor=050505" alt="GitHub" />
 </a>
 </div>
 
@@ -92,20 +82,19 @@
 
 ### ✦ Philosophy
 
-<!-- HTML quote box – works perfectly on any screen -->
 <div align="center">
   <table style="border-collapse: collapse; border: 2px solid #c9b37e; border-radius: 12px; background-color: #0d0d0d; padding: 15px 25px; display: inline-block;">
     <tr>
       <td style="color: #e8e3d3; font-family: 'Courier New', monospace; font-size: 14px; line-height: 1.6; text-align: center; padding: 10px;">
         “I believe machine learning should not only predict but<br/>
-        justify its reasoning — turning black‑box models into<br/>
+        justify its reasoning — turning black-box models into<br/>
         systems that are <strong>inspectable</strong>, <strong>auditable</strong>, and <strong>trustworthy</strong>.”
       </td>
     </tr>
   </table>
 </div>
 
-I’m **Vishwas Kothari** — a CS graduate student and AI researcher bridging **explainable AI**, **data engineering**, **vision‑language models**, and **optimizer behaviour**. I’ve interned at ISRO’s Space Applications Centre and published on ethical AI. I build ML artifacts that people can **read, question, and rely on**.
+I’m **Vishwas Kothari** — a CS graduate student and AI researcher bridging **explainable AI**, **data engineering**, **vision-language models**, and **optimizer behaviour**. I’ve interned at ISRO’s Space Applications Centre and published on ethical AI. I build ML artifacts that people can **read, question, and rely on**.
 
 <br/>
 
@@ -113,7 +102,6 @@ I’m **Vishwas Kothari** — a CS graduate student and AI researcher bridging *
 
 ### ✦ Research Universe
 
-<!-- Custom mind‑map SVG -->
 <div align="center">
 <svg viewBox="0 0 720 360" width="75%" xmlns="http://www.w3.org/2000/svg">
   <defs>
@@ -126,7 +114,6 @@ I’m **Vishwas Kothari** — a CS graduate student and AI researcher bridging *
   <circle cx="360" cy="180" r="32" fill="url(#coreGrad)" stroke="#c9b37e" stroke-width="1.5"/>
   <text x="360" y="186" text-anchor="middle" fill="#050505" font-size="11" font-weight="bold" font-family="monospace">CORE</text>
 
-  <!-- Connections -->
   <g stroke="#9caf88" stroke-width="1.2" opacity="0.7">
     <line x1="360" y1="148" x2="360" y2="50"/>
     <line x1="360" y1="212" x2="360" y2="310"/>
@@ -135,7 +122,6 @@ I’m **Vishwas Kothari** — a CS graduate student and AI researcher bridging *
     <line x1="340" y1="200" x2="220" y2="290"/>
   </g>
 
-  <!-- Nodes -->
   <rect x="310" y="20" width="100" height="30" rx="8" fill="#111" stroke="#c9b37e" stroke-width="1"/>
   <text x="360" y="39" text-anchor="middle" fill="#e8e3d3" font-size="10" font-family="monospace">Explainable AI</text>
 
@@ -146,7 +132,7 @@ I’m **Vishwas Kothari** — a CS graduate student and AI researcher bridging *
   <text x="110" y="124" text-anchor="middle" fill="#e8e3d3" font-size="10" font-family="monospace">Data Engineering</text>
 
   <rect x="550" y="105" width="120" height="30" rx="8" fill="#111" stroke="#c9b37e" stroke-width="1"/>
-  <text x="610" y="124" text-anchor="middle" fill="#e8e3d3" font-size="10" font-family="monospace">Vision‑Language</text>
+  <text x="610" y="124" text-anchor="middle" fill="#e8e3d3" font-size="10" font-family="monospace">Vision-Language</text>
 
   <rect x="160" y="270" width="110" height="30" rx="8" fill="#111" stroke="#c9b37e" stroke-width="1"/>
   <text x="215" y="289" text-anchor="middle" fill="#e8e3d3" font-size="10" font-family="monospace">Fairness &amp; Trust</text>
@@ -161,27 +147,23 @@ I’m **Vishwas Kothari** — a CS graduate student and AI researcher bridging *
 
 <div align="center">
 <svg viewBox="0 0 700 260" width="85%" xmlns="http://www.w3.org/2000/svg">
-  <!-- Vertical line -->
   <line x1="200" y1="40" x2="200" y2="230" stroke="#c9b37e" stroke-width="1.5" stroke-dasharray="5,3"/>
 
-  <!-- Node 1 -->
   <circle cx="200" cy="60" r="8" fill="#9caf88" stroke="#050505" stroke-width="2"/>
   <text x="225" y="52" fill="#e8e3d3" font-size="12" font-family="monospace" font-weight="bold">Research Intern</text>
-  <text x="225" y="68" fill="#a6a092" font-size="10" font-family="monospace">Space Applications Centre – ISRO</text>
+  <text x="225" y="68" fill="#a6a092" font-size="10" font-family="monospace">Space Applications Centre - ISRO</text>
   <text x="175" y="78" fill="#c9b37e" font-size="9" font-family="monospace" text-anchor="end">2024</text>
   <foreignObject x="230" y="80" width="440" height="40">
     <div xmlns="http://www.w3.org/1999/xhtml" style="color:#ccc;font-size:10px;font-family:monospace;">
-      Python pipelines for satellite sensor data, NetCDF merging, cross‑sensor validation.
+      Python pipelines for satellite sensor data, NetCDF merging, cross-sensor validation.
     </div>
   </foreignObject>
 
-  <!-- Node 2 -->
   <circle cx="200" cy="160" r="8" fill="#9caf88" stroke="#050505" stroke-width="2"/>
-  <text x="225" y="152" fill="#e8e3d3" font-size="12" font-family="monospace" font-weight="bold">Professional Master’s in CS</text>
+  <text x="225" y="152" fill="#e8e3d3" font-size="12" font-family="monospace" font-weight="bold">Professional Master's in CS</text>
   <text x="225" y="168" fill="#a6a092" font-size="10" font-family="monospace">University of Colorado Boulder</text>
-  <text x="175" y="178" fill="#c9b37e" font-size="9" font-family="monospace" text-anchor="end">2023 – 2025</text>
+  <text x="175" y="178" fill="#c9b37e" font-size="9" font-family="monospace" text-anchor="end">2023 - 2025</text>
 
-  <!-- Node 3 -->
   <circle cx="200" cy="230" r="8" fill="#9caf88" stroke="#050505" stroke-width="2"/>
   <text x="225" y="222" fill="#e8e3d3" font-size="12" font-family="monospace" font-weight="bold">Publication &amp; Peer Review</text>
   <text x="225" y="238" fill="#a6a092" font-size="10" font-family="monospace">Springer &amp; Elsevier</text>
@@ -223,7 +205,6 @@ I’m **Vishwas Kothari** — a CS graduate student and AI researcher bridging *
 
 <div align="center">
 <svg viewBox="0 0 960 200" width="100%" xmlns="http://www.w3.org/2000/svg">
-  <!-- Card 1 -->
   <rect x="10" y="10" width="300" height="180" rx="12" fill="#0d0d0d" stroke="#9caf88" stroke-width="1.2"/>
   <text x="160" y="45" text-anchor="middle" fill="#c9b37e" font-size="14" font-family="monospace" font-weight="bold">XAI Credit Lens</text>
   <text x="160" y="70" text-anchor="middle" fill="#a6a092" font-size="10" font-family="monospace">Explainable credit risk</text>
@@ -234,22 +215,20 @@ I’m **Vishwas Kothari** — a CS graduate student and AI researcher bridging *
     <text x="160" y="175" text-anchor="middle" fill="#9caf88" font-size="10" font-family="monospace" text-decoration="underline">View on GitHub ↗</text>
   </a>
 
-  <!-- Card 2 -->
   <rect x="330" y="10" width="300" height="180" rx="12" fill="#0d0d0d" stroke="#9caf88" stroke-width="1.2"/>
   <text x="480" y="45" text-anchor="middle" fill="#c9b37e" font-size="14" font-family="monospace" font-weight="bold">Financial Doc VQA</text>
-  <text x="480" y="70" text-anchor="middle" fill="#a6a092" font-size="10" font-family="monospace">Vision‑language models</text>
-  <text x="350" y="110" fill="#e8e3d3" font-size="12" font-family="monospace">SEC 10‑K filings</text>
-  <text x="350" y="130" fill="#e8e3d3" font-size="12" font-family="monospace">LoRA fine‑tuning</text>
+  <text x="480" y="70" text-anchor="middle" fill="#a6a092" font-size="10" font-family="monospace">Vision-language models</text>
+  <text x="350" y="110" fill="#e8e3d3" font-size="12" font-family="monospace">SEC 10-K filings</text>
+  <text x="350" y="130" fill="#e8e3d3" font-size="12" font-family="monospace">LoRA fine-tuning</text>
   <text x="350" y="150" fill="#e8e3d3" font-size="12" font-family="monospace">Domain benchmarks</text>
   <a href="https://github.com/vishwas182002/Financial-Document-VQA" target="_blank">
     <text x="480" y="175" text-anchor="middle" fill="#9caf88" font-size="10" font-family="monospace" text-decoration="underline">View on GitHub ↗</text>
   </a>
 
-  <!-- Card 3 -->
   <rect x="650" y="10" width="300" height="180" rx="12" fill="#0d0d0d" stroke="#9caf88" stroke-width="1.2"/>
   <text x="800" y="45" text-anchor="middle" fill="#c9b37e" font-size="14" font-family="monospace" font-weight="bold">Adam vs. SGD Bias</text>
   <text x="800" y="70" text-anchor="middle" fill="#a6a092" font-size="10" font-family="monospace">Optimizer behavior</text>
-  <text x="670" y="110" fill="#e8e3d3" font-size="12" font-family="monospace">Max‑margin solutions</text>
+  <text x="670" y="110" fill="#e8e3d3" font-size="12" font-family="monospace">Max-margin solutions</text>
   <text x="670" y="130" fill="#e8e3d3" font-size="12" font-family="monospace">Optimizer geometry</text>
   <text x="670" y="150" fill="#e8e3d3" font-size="12" font-family="monospace">Spurious correlations</text>
   <a href="https://github.com/vishwas182002/Implicit-Bias-Adam-SGD" target="_blank">
@@ -274,10 +253,8 @@ I’m **Vishwas Kothari** — a CS graduate student and AI researcher bridging *
   <use href="#pentagon" transform="scale(0.4) translate(135, 135)" stroke="#555"/>
   <use href="#pentagon" transform="scale(0.2) translate(180, 180)" stroke="#555"/>
 
-  <!-- Data polygon (proficiency) -->
   <polygon points="180,55 280,140 255,280 105,280 80,140" fill="#c9b37e" fill-opacity="0.15" stroke="#c9b37e" stroke-width="1.8"/>
 
-  <!-- Axis labels -->
   <text x="180" y="20" text-anchor="middle" fill="#e8e3d3" font-size="11" font-family="monospace">Python</text>
   <text x="335" y="135" text-anchor="start" fill="#e8e3d3" font-size="11" font-family="monospace">PyTorch</text>
   <text x="265" y="315" text-anchor="middle" fill="#e8e3d3" font-size="11" font-family="monospace">XAI</text>
@@ -291,19 +268,20 @@ I’m **Vishwas Kothari** — a CS graduate student and AI researcher bridging *
 ### ✦ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,aws,docker,git,linux,mysql,mongodb,js,java,cpp&theme=dark" alt="Technical stack" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,aws,docker,git,linux,mysql,mongodb,js,java,cpp&amp;theme=dark" alt="Technical stack" />
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Data-NumPy%20%7C%20Pandas%20%7C%20SciPy%20%7C%20xarray-c9b37e?style=flat-square&labelColor=050505" />
-  <img src="https://img.shields.io/badge/Modeling-XGBoost%20%7C%20LightGBM%20%7C%20CVXPY-9caf88?style=flat-square&labelColor=050505" />
-  <img src="https://img.shields.io/badge/Interfaces-Streamlit%20%7C%20Gradio%20%7C%20Power%20BI-b7a56a?style=flat-square&labelColor=050505" />
+  <img src="https://img.shields.io/badge/Data-NumPy%20%7C%20Pandas%20%7C%20SciPy%20%7C%20xarray-c9b37e?style=flat-square&amp;labelColor=050505" alt="Data tools" />
+  <img src="https://img.shields.io/badge/Modeling-XGBoost%20%7C%20LightGBM%20%7C%20CVXPY-9caf88?style=flat-square&amp;labelColor=050505" alt="Modeling tools" />
+  <img src="https://img.shields.io/badge/Interfaces-Streamlit%20%7C%20Gradio%20%7C%20Power%20BI-b7a56a?style=flat-square&amp;labelColor=050505" alt="Interfaces" />
 </p>
 
 <br/>
 
 ---
 
-### ✦ GitHub Skyline (a city built from your contributions)
+### ✦ GitHub Skyline
 
 <div align="center">
   <div style="display: inline-block; border: 2px solid #c9b37e; border-radius: 12px; background-color: #0d0d0d; padding: 20px 30px; text-align: center;">
@@ -331,23 +309,23 @@ I’m **Vishwas Kothari** — a CS graduate student and AI researcher bridging *
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwas182002&bg_color=050505&color=e8e3d3&line=c9b37e&point=9caf88&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwas182002&amp;bg_color=050505&amp;color=e8e3d3&amp;line=c9b37e&amp;point=9caf88&amp;area=true&amp;hide_border=true" width="100%" alt="GitHub activity graph" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vishwas182002&theme=dark&hide_border=true&background=050505&ring=c9b37e&fire=c9b37e&currStreakLabel=c9b37e&sideLabels=e8e3d3&dates=a6a092" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=vishwas182002&amp;theme=dark&amp;hide_border=true&amp;background=050505&amp;ring=c9b37e&amp;fire=c9b37e&amp;currStreakLabel=c9b37e&amp;sideLabels=e8e3d3&amp;dates=a6a092" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishwas182002&theme=github_dark" width="96%" alt="GitHub profile summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishwas182002&amp;theme=github_dark" width="96%" alt="GitHub profile summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishwas182002&theme=github_dark" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vishwas182002&theme=github_dark" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishwas182002&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishwas182002&amp;theme=github_dark" width="32%" alt="Repositories per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vishwas182002&amp;theme=github_dark" width="32%" alt="Most commit language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishwas182002&amp;theme=github_dark" width="32%" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9b37e,50:111111,100:050505&height=110&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:c9b37e,50:111111,100:050505&amp;height=110&amp;section=footer" width="100%" alt="Footer" />
 </p>
