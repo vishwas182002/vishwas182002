@@ -20,15 +20,17 @@
 
 <br />
 
-<h2>About Me</h2>
+<h2>Philosophy</h2>
+
+<blockquote>
+I believe machine learning should not only predict, but justify its reasoning, turning black-box models into systems that are inspectable, auditable, and trustworthy.
+</blockquote>
 
 <p>
-I'm <strong>Vishwas Kothari</strong>, a CS graduate student and AI researcher focused on building machine learning systems that are not only accurate, but understandable and trustworthy.
-My work spans explainable AI, data engineering, vision-language models, and ML research, with experience at ISRO's Space Applications Centre and projects across financial AI, optimizer behavior, and robustness.
-I care about turning complex ideas into systems people can inspect, question, and rely on.
+I'm <strong>Vishwas Kothari</strong>, a CS graduate student and AI researcher. My work bridges <strong>explainable AI</strong>, <strong>data engineering</strong>, <strong>vision-language models</strong>, and <strong>optimizer behavior</strong>. I have interned at ISRO's Space Applications Centre and published on ethical AI. I build artifacts that people can read, question, and rely on.
 </p>
 
-<h2>Research &amp; Engineering Focus</h2>
+<h2>Research Universe</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Explainable%20AI-SHAP%20%7C%20LIME%20%7C%20DiCE-9caf88?style=for-the-badge&amp;labelColor=050505" alt="Explainable AI" />
@@ -41,19 +43,7 @@ I care about turning complex ideas into systems people can inspect, question, an
   <img src="https://img.shields.io/badge/Fairness%20%26%20Trust-Auditable%20ML-d6c28f?style=for-the-badge&amp;labelColor=050505" alt="Fairness and trust" />
 </p>
 
-<h2>Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,aws,docker,git,linux,mysql,mongodb,js,java,cpp&amp;theme=dark" alt="Technical stack" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Data-NumPy%20%7C%20Pandas%20%7C%20SciPy%20%7C%20xarray-c9b37e?style=flat-square&amp;labelColor=050505" alt="Data tools" />
-  <img src="https://img.shields.io/badge/Modeling-XGBoost%20%7C%20LightGBM%20%7C%20CVXPY-9caf88?style=flat-square&amp;labelColor=050505" alt="Modeling tools" />
-  <img src="https://img.shields.io/badge/Interfaces-Streamlit%20%7C%20Gradio%20%7C%20Power%20BI-b7a56a?style=flat-square&amp;labelColor=050505" alt="Interfaces" />
-</p>
-
-<h2>Experience Snapshot</h2>
+<h2>Experience Timeline</h2>
 
 <table>
   <tr>
@@ -76,16 +66,16 @@ I care about turning complex ideas into systems people can inspect, question, an
   </tr>
   <tr>
     <td width="34%">
-      <strong>Publication &amp; Reviewing</strong><br />
+      <strong>Publication &amp; Peer Review</strong><br />
       <sub>Springer &middot; Elsevier</sub>
     </td>
     <td>
-      Springer publication on ethical AI and peer-review work with Elsevier journals.
+      Springer book chapter on ethical AI and peer-review work with Elsevier journals.
     </td>
   </tr>
 </table>
 
-<h2>Publication</h2>
+<h2>Publication Highlight</h2>
 
 <table>
   <tr>
@@ -138,19 +128,48 @@ I care about turning complex ideas into systems people can inspect, question, an
   </tr>
 </table>
 
-<h2 align="center">3D Contribution Graph</h2>
+<h2>Technical Strengths</h2>
+
+<table>
+  <tr>
+    <td><strong>Python &amp; ML</strong></td>
+    <td>PyTorch, TensorFlow, scikit-learn, XGBoost, LightGBM</td>
+  </tr>
+  <tr>
+    <td><strong>Explainability</strong></td>
+    <td>SHAP, LIME, DiCE, fairness auditing, model transparency</td>
+  </tr>
+  <tr>
+    <td><strong>Data Engineering</strong></td>
+    <td>NumPy, Pandas, SciPy, xarray, validation pipelines, NetCDF workflows</td>
+  </tr>
+  <tr>
+    <td><strong>Interfaces &amp; Deployment</strong></td>
+    <td>Streamlit, Gradio, Docker, AWS, Power BI</td>
+  </tr>
+</table>
+
+<h2>Tech Stack</h2>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution graph" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,aws,docker,git,linux,mysql,mongodb,js,java,cpp&amp;theme=dark" alt="Technical stack" />
 </p>
 
-<h2 align="center">Activity Graph</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Data-NumPy%20%7C%20Pandas%20%7C%20SciPy%20%7C%20xarray-c9b37e?style=flat-square&amp;labelColor=050505" alt="Data tools" />
+  <img src="https://img.shields.io/badge/Modeling-XGBoost%20%7C%20LightGBM%20%7C%20CVXPY-9caf88?style=flat-square&amp;labelColor=050505" alt="Modeling tools" />
+  <img src="https://img.shields.io/badge/Interfaces-Streamlit%20%7C%20Gradio%20%7C%20Power%20BI-b7a56a?style=flat-square&amp;labelColor=050505" alt="Interfaces" />
+</p>
+
+<h2 align="center">Contribution Map &amp; Analytics</h2>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D GitHub contribution graph" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwas182002&amp;bg_color=050505&amp;color=e8e3d3&amp;line=c9b37e&amp;point=9caf88&amp;area=true&amp;hide_border=true" width="100%" alt="GitHub activity graph" />
 </p>
-
-<h2 align="center">GitHub Snapshot</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vishwas182002&amp;theme=dark&amp;hide_border=true&amp;background=050505&amp;ring=c9b37e&amp;fire=c9b37e&amp;currStreakLabel=c9b37e&amp;sideLabels=e8e3d3&amp;dates=a6a092" alt="GitHub Streak" />
